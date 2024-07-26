@@ -1,0 +1,17 @@
+.box {
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid rgb(238, 232, 232);
+  box-shadow: 3px 3px #eee8e8;
+}
+
+main {
+  min-height: 68vh;
+}
+.MuiSheet-root {
+  border-radius: 0px !important;
+}
+.MuiBox-root {
+  border-radius: 0px !important;
+}

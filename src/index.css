@@ -1,0 +1,13 @@
+.container {
+  padding: 30px;
+  width: 80%;
+}
+.btn {
+  padding: 30px;
+  margin-left: 10px;
+}
+.container {
+  padding: 20px;
+  width: 70%;
+  margin: 0 auto;
+}
